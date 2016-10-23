@@ -2,7 +2,7 @@
 A mimic of UIBarButtonItem
 
 ### WCNavBackButtonItem
-A mimic of backBarButtonItem, which can't be replaced custom UIBarButtonItem.
+A mimic of backBarButtonItem, which can't be replaced by custom UIBarButtonItem. So I provide a WCNavBackButtonItem.
 
 ![Design Diagram](Documentation/snapshot1.png)
 
